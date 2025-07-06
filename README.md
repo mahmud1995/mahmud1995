@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
   <img width="12" />
