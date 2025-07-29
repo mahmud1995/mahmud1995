@@ -76,23 +76,14 @@ Currently exploring OAuth integrations, cloud deployment, and mobile-first exper
 </p>
 
 
-###
+<h3 align="left">🌐 Connect with Me</h3>
 
 <div align="left"> <a href="https://www.linkedin.com/in/makhmud-yuldoshev-025b19202/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" /> </a> <a href="https://twitter.com/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" /> </a> <a href="https://discord.com/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" /> </a> <a href="https://twitch.tv/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitch" /> </a> <a href="https://dev.to/" target="_blank"> <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to" /> </a> <a href="https://codepen.io/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Codepen" /> </a> <a href="https://codesandbox.io/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="25" alt="Codesandbox" /> </a> <a href="https://t.me/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram" /> </a> <a href="https://stackoverflow.com/users/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Stack Overflow" /> </a> <a href="https://instagram.com/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" /> </a> </div>
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mahmud1995&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=mahmud1995&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<h3 align="left">🏆 GitHub Stats</h3>
 
-###
+<div align="center"> <img src="https://streak-stats.demolab.com?user=mahmud1995&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak" /> <img src="https://github-profile-trophy.vercel.app?username=mahmud1995&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub Trophies" /> </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmud1995/mahmud1995/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmud1995/mahmud1995/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mahmud1995/mahmud1995/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<h3 align="left">👾 Contribution Graph (Pacman Style)</h3>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmud1995/mahmud1995/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmud1995/mahmud1995/output/pacman-contribution-graph.svg"> <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/mahmud1995/mahmud1995/output/pacman-contribution-graph.svg"> </picture>
