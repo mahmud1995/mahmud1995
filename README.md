@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/213909068-5ab8e4ce-b8d3-4c1b-8713-64c7e2ff3b6b.png" alt="developer banner" />
+<img src="https://as1.ftcdn.net/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg" alt="developer banner" />
 
 <img src="https://user-images.githubusercontent.com/74038190/213910633-8ffb3bfc-c3ef-46b2-8797-bf8e3324d602.png" alt="terminal banner" />
 
