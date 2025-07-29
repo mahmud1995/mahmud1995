@@ -1,4 +1,4 @@
-<img src="https://as1.ftcdn.net/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg" alt="developer banner" />
+<img src="https://dz2cdn1.dzone.com/storage/temp/11127003-full-stack-development.jpg" alt="developer banner" />
 
 <img src="https://user-images.githubusercontent.com/74038190/213910633-8ffb3bfc-c3ef-46b2-8797-bf8e3324d602.png" alt="terminal banner" />
 
