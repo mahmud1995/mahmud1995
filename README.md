@@ -1,5 +1,6 @@
-<img src="/Users/jony/Desktop/Youtube/ImageForYoutube/2025-07-26 00.01.47.jpg"></img>
-<h2 align="left">## 👨‍💻 About Jony</h2>
+<img src="https://raw.githubusercontent.com/mahmud1995/assets/main/banner/code-dark-banner.jpg" alt="Coding Banner" style="width: 100%; border-radius: 10px;" />
+
+<h2 align="left">👨‍💻 About Jony</h2>
 
 <h3 align="left">Hi, I'm a Full Stack Developer with a strong background in JavaScript/TypeScript ecosystems.</h3>
 <h4>I enjoy building scalable web applications, designing APIs, and solving real-world problems with code.  
