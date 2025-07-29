@@ -1,10 +1,9 @@
 <h2 align="left">## 👨‍💻 About Jony</h2>
 
-<h3 align="left">Hi, I'm a Full Stack Developer from South Korea 🇰🇷 with a strong background in JavaScript/TypeScript ecosystems.</h3>
-<h4>I'm a Full Stack Developer from South Korea 🇰🇷 with a strong background in JavaScript/TypeScript ecosystems.  
-I enjoy building scalable web applications, designing APIs, and solving real-world problems with code.  
+<h3 align="left">Hi, I'm a Full Stack Developer with a strong background in JavaScript/TypeScript ecosystems.</h3>
+<h4>I enjoy building scalable web applications, designing APIs, and solving real-world problems with code.  
 Currently exploring OAuth integrations, cloud deployment, and mobile-first experiences.</h4>
-
+<h1></h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
   <img width="12" />
