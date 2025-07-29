@@ -1,4 +1,8 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">## 👨‍💻 About Me
+
+I'm a Full Stack Developer from South Korea 🇰🇷 with a strong background in JavaScript/TypeScript ecosystems.  
+I enjoy building scalable web applications, designing APIs, and solving real-world problems with code.  
+Currently exploring OAuth integrations, cloud deployment, and mobile-first experiences.</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
