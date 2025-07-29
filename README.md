@@ -1,4 +1,7 @@
 <img src="https://raw.githubusercontent.com/mahmud1995/assets/main/banner/code-dark-banner.jpg" alt="Coding Banner" style="width: 100%; border-radius: 10px;" />
+<img src="https://raw.githubusercontent.com/mahmud1995/assets/main/banner/dev-setup-banner.jpg" alt="Developer Workspace" style="width: 100%; border-radius: 10px;" />
+<img src="https://raw.githubusercontent.com/mahmud1995/assets/main/banner/tech-gradient.jpg" alt="Tech Gradient Banner" style="width: 100%; border-radius: 10px;" />
+
 
 <h2 align="left">👨‍💻 About Jony</h2>
 
