@@ -1,10 +1,5 @@
 <img src="https://dz2cdn1.dzone.com/storage/temp/11127003-full-stack-development.jpg" alt="developer banner" />
 
-<img src="https://user-images.githubusercontent.com/74038190/213910633-8ffb3bfc-c3ef-46b2-8797-bf8e3324d602.png" alt="terminal banner" />
-
-<img src="https://user-images.githubusercontent.com/74038190/213911122-8a875838-d4df-469b-a0eb-70970a78c35b.png" alt="code rain banner" />
-
-
 
 <h2 align="left">👨‍💻 About Jony</h2>
 
