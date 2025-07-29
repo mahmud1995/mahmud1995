@@ -1,6 +1,9 @@
-<img src="https://raw.githubusercontent.com/mahmud1995/assets/main/banner/code-dark-banner.jpg" alt="Coding Banner" style="width: 100%; border-radius: 10px;" />
-<img src="https://raw.githubusercontent.com/mahmud1995/assets/main/banner/dev-setup-banner.jpg" alt="Developer Workspace" style="width: 100%; border-radius: 10px;" />
-<img src="https://raw.githubusercontent.com/mahmud1995/assets/main/banner/tech-gradient.jpg" alt="Tech Gradient Banner" style="width: 100%; border-radius: 10px;" />
+<img src="https://user-images.githubusercontent.com/74038190/213909068-5ab8e4ce-b8d3-4c1b-8713-64c7e2ff3b6b.png" alt="developer banner" />
+
+<img src="https://user-images.githubusercontent.com/74038190/213910633-8ffb3bfc-c3ef-46b2-8797-bf8e3324d602.png" alt="terminal banner" />
+
+<img src="https://user-images.githubusercontent.com/74038190/213911122-8a875838-d4df-469b-a0eb-70970a78c35b.png" alt="code rain banner" />
+
 
 
 <h2 align="left">👨‍💻 About Jony</h2>
