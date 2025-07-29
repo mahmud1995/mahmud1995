@@ -4,8 +4,8 @@
 <h2 align="left">👨‍💻 About Jony</h2>
 
 <h3 align="left">Hi, I'm a Full Stack Developer with a strong background in JavaScript/TypeScript ecosystems.</h3>
-<h4>I enjoy building scalable web applications, designing APIs, and solving real-world problems with code.  
-Currently exploring OAuth integrations, cloud deployment, and mobile-first experiences.</h4>
+<p>I enjoy building scalable web applications, designing APIs, and solving real-world problems with code.  
+Currently exploring OAuth integrations, cloud deployment, and mobile-first experiences.</p>
 <h1></h1>
 
 <h2 align="left">🛠️ Tech Stack</h2>
